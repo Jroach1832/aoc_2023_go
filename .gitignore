@@ -4,3 +4,4 @@
 # Exclude specific exceptions
 !**/*.go
 !**/day*
+!**/*.txt
